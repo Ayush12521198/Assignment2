@@ -1,1 +1,2 @@
 # Assignment2
+This project creates a dynamic web interface using HTML, CSS, and JavaScript to display products fetched from an API. It includes tab navigation for different categories like men, women, and kids. Each product is shown in a card format with details like image, title, vendor, price, and optional badges. The layout is designed to be responsive, ensuring compatibility with various devices. Overall, it provides a user-friendly browsing experience for exploring different products.
